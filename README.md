@@ -9,15 +9,11 @@
 
 ## 🤖 About Me
 
-```python
-profile = {
-  "role": "AI/ML Engineer @ Visa | Ex-American Airlines",
-  "education": "MS Computer Science — Auburn University (2025)",
-  "focus": ["RAG Pipelines", "Transaction Risk Modeling", "MLOps"],
-  "looking_for": "Mid-level AI/ML Engineer roles in the USA",
-}
-```
-
+- 🔭 AI/ML Engineer at **Visa**, building production-grade ML & GenAI systems
+- 🎓 MS in Computer Science — **Auburn University** (2025)
+- 🚀 Specialized in **RAG Pipelines**, **Transaction Risk Modeling** & **MLOps**
+- 🌍 Based in Atlanta, GA — Open to Relocation
+- 💼 Actively seeking **mid-level AI/ML Engineer roles** in the USA
 ---
 
 ## ⚡ By the Numbers

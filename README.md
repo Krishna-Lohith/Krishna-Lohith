@@ -9,7 +9,7 @@
 
 ## 🤖 About Me
 
-- 🔭 AI/ML Engineer at **Visa**, building production-grade ML & GenAI systems
+- 🔭 AI/ML Engineer, building production-grade ML & GenAI systems
 - 🎓 MS in Computer Science — **Auburn University** (2025)
 - 🚀 Specialized in **RAG Pipelines**, **Transaction Risk Modeling** & **MLOps**
 - 🌍 Based in Atlanta, GA — Open to Relocation

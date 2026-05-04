@@ -1,7 +1,7 @@
 
 # Hi there, I'm Lohith Mothukuri 👋
 
-**AI/ML Engineer** | Python · GenAI · MLOps | 📍 Atlanta, GA (Open to Relocation)
+**AI/ML Engineer** | Python · GenAI · MLOps | 📍 USA
 
 > 🟢 Actively seeking mid-level AI/ML Engineer roles in the USA
 

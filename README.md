@@ -1,30 +1,25 @@
-
 # Hi there, I'm Lohith Mothukuri 👋
-
 **AI/ML Engineer** | Python · GenAI · MLOps | 📍 USA
-
 > 🟢 Actively seeking mid-level AI/ML Engineer roles in the USA
 
 ---
 
 ## 🤖 About Me
-
 - 🔭 AI/ML Engineer, building production-grade ML & GenAI systems
 - 🎓 MS in Computer Science — **Auburn University** (2025)
 - 🚀 Specialized in **RAG Pipelines**, **Transaction Risk Modeling** & **MLOps**
 - 🌍 Based in Atlanta, GA — Open to Relocation
 - 💼 Actively seeking **mid-level AI/ML Engineer roles** in the USA
+
 ---
 
 ## ⚡ By the Numbers
-
 | 3+ Years Experience | 1M+ Daily Txns Modeled | 35% Policy Lookup Reduction |
 |---|---|---|
 
 ---
 
 ## 🛠 Tech Stack
-
 **Languages:** Python · SQL
 
 **ML / AI:**
@@ -60,7 +55,16 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🏦 ANN Churn Classification
+> Bank Customer Churn Prediction using Artificial Neural Networks · [🚀 Live Demo](https://annclassificationchurn-srgf6gbtvlvj3aipqmz8r9.streamlit.app/) · [📂 Repo](https://github.com/Krishna-Lohith/ANN_Classification_Churn)
+
+Predicted whether a bank customer will churn using a deep learning ANN trained on 10,000 records — achieving **86.35% validation accuracy**. Built end-to-end: data preprocessing, label & one-hot encoding, StandardScaler, and a Streamlit web app for live predictions. Also implemented a hyperparameter-tuned version for improved optimization.
+
+`Python` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Streamlit` `ANN` `Binary Classification`
+
+---
 
 ### 🏆 Accident Detection & Alert System — IoT
 > 1st Prize · 36-Hour Hackathon · JNTU Hyderabad
@@ -72,7 +76,6 @@ Real-time accident detection using IoT sensors + Raspberry Pi with GPS-triggered
 ---
 
 ## 📬 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohithmothu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/krishna-lohith)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lohith.mothu@gmail.com)

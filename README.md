@@ -31,17 +31,23 @@
 - **Data Analyst — Concentrix (BFSI)** *(Sep 2021 – Dec 2022 · Hyderabad)*
 
 ---
-
 ## 🚀 Featured Projects
 
 **🏦 ANN Churn Classification** · [Live Demo](https://annclassificationchurn-srgf6gbtvlvj3aipqmz8r9.streamlit.app/) · [Repo](https://github.com/Krishna-Lohith/ANN_Classification_Churn)
 > Bank customer churn prediction using ANN — 86.35% accuracy on 10,000 records. Full pipeline + Streamlit app.
 `TensorFlow` `Keras` `Scikit-Learn` `Streamlit`
 
+**🎬 CineScope — IMDB Sentiment Analysis** · [Live Demo](https://cinescope-rnn.streamlit.app) · [Repo](https://github.com/Krishna-Lohith/CineScope)
+> IMDB movie review sentiment classifier using Simple RNN — trained on 50,000 reviews. Full NLP pipeline: tokenisation → embedding → RNN → sigmoid. Deployed as a Streamlit web app.
+`TensorFlow` `Keras` `NLP` `SimpleRNN` `Streamlit`
+
+**🤖 Biped Walking Robot** · [▶ Watch Demo](https://www.youtube.com/watch?v=m2g34fkaxhI) · 🏅 Best Robot Award · 2-Day Contest · Anurag Group of Institutions
+> Built a fully functional biped robot capable of stable forward & backward walking — recognized as the fastest and most precise walking robot in the contest. Developed as part of the Skyfi Labs Biped Walking Robot course. Programmed servo motor sequences in C++ via Arduino IDE to achieve smooth, balanced locomotion.
+`Arduino` `Arduino IDE` `C++` `Servo Motors` `Robotics`
+
 **🏆 Accident Detection & Alert System** · 1st Prize · 36-Hr Hackathon · JNTU
 > Real-time IoT accident detection with GPS-triggered emergency alerts.
-`Python` `Raspberry Pi` `IoT` `GPS`
-
+`Python` `Raspberry Pi` `IoT` `Computer Vision`
 ---
 
 ## 📬 Connect

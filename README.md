@@ -37,7 +37,7 @@
 > Bank customer churn prediction using ANN — 86.35% accuracy on 10,000 records. Full pipeline + Streamlit app.
 `TensorFlow` `Keras` `Scikit-Learn` `Streamlit`
 
-**🎬 CineScope — IMDB Sentiment Analysis** · [Live Demo](https://cinescope-rnn.streamlit.app) · [Repo](https://github.com/Krishna-Lohith/CineScope)
+**🎬 CineScope — IMDB Sentiment Analysis** · [Live Demo](https://rnn-imdb-review-classification-eunnmruxwtpattzw4pjqoa.streamlit.app/) · [Repo](https://github.com/Krishna-Lohith/CineScope)
 > IMDB movie review sentiment classifier using Simple RNN — trained on 50,000 reviews. Full NLP pipeline: tokenisation → embedding → RNN → sigmoid. Deployed as a Streamlit web app.
 `TensorFlow` `Keras` `NLP` `SimpleRNN` `Streamlit`
 

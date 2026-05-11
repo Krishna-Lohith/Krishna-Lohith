@@ -1,7 +1,7 @@
 # Hi, I'm Lohith Mothukuri 👋
 **AI/ML Engineer** · Python · GenAI · MLOps · 📍 USA
-> 🟢 Actively seeking mid-level AI/ML Engineer roles in the USA
-> Let's connect: www.linkedin.com/in/lohithmothu
+> 🟢 Actively seeking mid-level AI/ML Engineer roles in the USA                                         
+>    Let's connect: www.linkedin.com/in/lohithmothu
 
 ---
 

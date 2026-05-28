@@ -8,6 +8,11 @@
 - 💼 ML Engineer @ **Visa** — Transaction Risk, RAG Pipelines, Anomaly Detection
 - 🚀 3+ years building production ML & GenAI systems · 1M+ daily transactions modeled
 ---
+## 📝 Writing
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@krishnalohith77)
+
+> Latest: [**Statistics for Machine Learning**](https://medium.com/@krishnalohith77/statistics-for-machine-learning-7e21af6ac87b) — A deep dive into descriptive & inferential statistics with real-world examples.
+---
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -40,11 +45,6 @@
 **🏆 Accident Detection & Alert System** · 1st Prize · 36-Hr Hackathon · JNTU
 > Real-time IoT accident detection with GPS-triggered emergency alerts.
 `Python` `Raspberry Pi` `IoT` `Computer Vision`
----
-## 📝 Writing
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@krishnalohith77)
-
-> Latest: [**Statistics for Machine Learning**](https://medium.com/@krishnalohith77/statistics-for-machine-learning-7e21af6ac87b) — A deep dive into descriptive & inferential statistics with real-world examples.
 ---
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohithmothu)

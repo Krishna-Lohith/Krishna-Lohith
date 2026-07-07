@@ -1,12 +1,10 @@
 # Hi, I'm Lohith Mothukuri 👋
-**AI/ML Engineer** · Python · GenAI · MLOps · 📍 USA
-> 🟢 Actively seeking mid-level AI/ML Engineer roles in the USA                                         
->    Let's connect: [www.linkedin.com/in/lohithmothu](https://www.linkedin.com/in/lohithmothu)
+**Techie** · Data · AI · Software Engineering
 ---
 ## About Me
-- 🎓 MS in Computer Science — **Auburn University** (2025)
-- 💼 ML Engineer @ **Visa** — Transaction Risk, RAG Pipelines, Anomaly Detection
-- 🚀 3+ years building production ML & GenAI systems · 1M+ daily transactions modeled
+- 🛠️ I build projects around **data, AI, and software engineering** — models, pipelines, and apps
+- 📚 I love learning something new every day — always exploring, always tinkering
+- 🤓 Just a techie at heart who enjoys turning ideas into working things
 ---
 ## 📝 Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@krishnalohith77)
@@ -23,11 +21,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
----
-## 💼 Experience
-- **ML Engineer — Visa** *(Aug 2024 – Present · Atlanta, GA)*
-- **Data Scientist — American Airlines** *(Dec 2022 – Jul 2023 · Hyderabad)*
-- **Data Analyst — Concentrix (BFSI)** *(Sep 2021 – Dec 2022 · Hyderabad)*
 ---
 ## 🚀 Featured Projects
 **🏦 ANN Churn Classification** · [Live Demo](https://annclassificationchurn-srgf6gbtvlvj3aipqmz8r9.streamlit.app/) · [Repo](https://github.com/Krishna-Lohith/ANN_Classification_Churn)

@@ -10,7 +10,7 @@
 ┌──(lohith㉿github)-[~]
 └─$ whoami
 
-> techie · builder · lifelong learner
+> techie · builder · learner
 > I build projects around data, AI & software engineering
 > currently shipping full-stack products & sharing what I learn
 ```
@@ -135,7 +135,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9f)](https://www.linkedin.com/in/lohithmothu)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00ff9f)](https://medium.com/@krishnalohith77)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9f)](mailto:lohith.mothu@gmail.com)
 

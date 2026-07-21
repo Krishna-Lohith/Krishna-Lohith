@@ -22,7 +22,7 @@ jobs:
           github_user_name: krishna-lohith
           outputs: |
             dist/github-snake.svg?palette=github-dark
-            dist/github-snake-cyan.svg?color_snake=#00bfff&color_dots=#161b22,#003a57,#00618f,#0090c7,#00bfff&dark_color_dots=#161b22,#003a57,#00618f,#0090c7,#00bfff
+            dist/github-snake-supabase.svg?color_snake=#3ecf8e&color_dots=#161b22,#0f3d2e,#1a7f5a,#2aa876,#3ecf8e&dark_color_dots=#161b22,#0f3d2e,#1a7f5a,#2aa876,#3ecf8e
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

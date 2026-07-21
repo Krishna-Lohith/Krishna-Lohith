@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b201a"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgf)"/>
+
+  <path d="M0 45 Q150 75 300 45 T600 45 T900 45 T1200 45 T1500 45 T1800 45 T2100 45 T2400 45 L2400 0 L0 0 Z" fill="#3ecf8e" opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 32 Q150 54 300 32 T600 32 T900 32 T1200 32 T1500 32 T1800 32 T2100 32 T2400 32 L2400 0 L0 0 Z" fill="#3ecf8e" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" values="-300 0;-900 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="100" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#8ddbb6">while(alive) &#123; learn(); build(); share(); &#125;</text>
+</svg>

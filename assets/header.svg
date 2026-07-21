@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Lohith Mothukuri — AI / ML / GenAI / Full-Stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b201a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3ecf8e" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#2aa876"/>
+      <stop offset="0.5" stop-color="#a7f3d0"/>
+      <stop offset="1" stop-color="#3ecf8e"/>
+      <animate attributeName="x1" values="-400;1200" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1600" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#3ecf8e" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <ellipse cx="600" cy="110" rx="340" ry="150" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.35;0.75;0.35" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#sweep)">Lohith Mothukuri</text>
+
+  <rect x="882" y="72" width="9" height="52" fill="#3ecf8e">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="162" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="21" letter-spacing="3" fill="#8ddbb6">&lt; AI / ML / GenAI / Full-Stack &gt;</text>
+
+  <path d="M0 215 Q150 185 300 215 T600 215 T900 215 T1200 215 T1500 215 T1800 215 T2100 215 T2400 215 L2400 260 L0 260 Z" fill="#3ecf8e" opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 228 Q150 206 300 228 T600 228 T900 228 T1200 228 T1500 228 T1800 228 T2100 228 T2400 228 L2400 260 L0 260 Z" fill="#3ecf8e" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" values="-300 0;-900 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+</svg>

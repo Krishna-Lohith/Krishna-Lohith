@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Lohith Mothukuri — AI / ML / GenAI / Full-Stack"/>
+<img src="assets/header.svg" width="100%" alt="Lohith M"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=3ECF8E&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+DeshMate+%F0%9F%8F%A0+%26+Porzolio+%F0%9F%8E%A8;GenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+MLOps;Shipping+full-stack+products+solo+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%93%9A" alt="Typing SVG" />
 
